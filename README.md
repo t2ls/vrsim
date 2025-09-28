@@ -11,6 +11,6 @@ Nektere clanky posledni doby [Command Pattern](https://t2ls.com/blog/2025/09_20_
 [Prevod ovladani programu na zvuk](https://t2ls.com/blog/2023/07_25_empowering_program_control_with_natural_language/voice_control.pdf)<br/>
 [Robotic Corrosion Detection](https://t2ls.com/blog/2021/12_20_piloting/PILOTING_HON_DEC21.pdf) - projekt v Honeywelu, po roce zasel na Covid/uspory.
 
-V Brne jsem do ctvrtka, pak jedu na lod. Zpet az zase 12.10. 
+V Brne jsem do ctvrtka, pak jedu na lod. Zpet az zase 13.10. 
 
 
