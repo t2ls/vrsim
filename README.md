@@ -1,6 +1,6 @@
 # vrsim
 
-Kod simulace je v Simulation.h
+Kod simulace je v [Simulation.h](https://github.com/t2ls/vrsim/blob/main/T2lSimulation.h).
 
 Exe je jiny kod - zde nahled aplikace, kde je Simulation.h pouzity: [video](https://drive.google.com/file/d/1hGmegX_FSMPJeBx7NUSCPaYt6OY8AEmq/view?usp=sharing).
 Nedokazu v kratkem case nahrat, vlastne se mi ani nedari udrzba [repozitare](https://github.com/ta2la/hg/wiki/Library-hg_interact).
