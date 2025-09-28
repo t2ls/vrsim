@@ -7,4 +7,10 @@ Nedokazu v kratkem case nahrat, vlastne se mi ani nedari udrzba [repozitare](htt
 
 Neverejny nahled aplikace, ze ktere je odvozeno [zde](https://t2ls.com/t2lcad/wasmapp/CAD_QML_EDGE.html). Predelavam na wasm, jeste syrove. Jsem celkem vizualne zamereny, co nedokazu videt, nenaprogramuju (o:
 
+Nektere clanky posledni doby [Command Pattern](https://t2ls.com/blog/2025/09_20_command_pattern/command_pattern.pdf)<br/>
+[Prevod ovladani programu na zvuk](https://t2ls.com/blog/2023/07_25_empowering_program_control_with_natural_language/voice_control.pdf)<br/>
+[Robotic Corrosion Detection](https://t2ls.com/blog/2021/12_20_piloting/PILOTING_HON_DEC21.pdf) - projekt v Honeywelu, po roce zasel na Covid/uspory.
+
 V Brne jsem do ctvrtka, pak jedu na lod. Zpet az zase 12.10. 
+
+
